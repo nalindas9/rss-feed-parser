@@ -7,14 +7,14 @@ RSS Feed Parser that calls a URL every 1 hour and scrapes the data and saves it 
 
 ## Output
 
-
+https://user-images.githubusercontent.com/44141068/157387720-42a434ff-b4eb-4ed6-a6e2-ebdac6f873b8.mp4
 
 ## System and library requirements
 
-Python==3.6.9
-beautifulsoup4==4.10.0
-pandas==1.1.5
-requests==2.27.1
+- Python==3.6.9
+- beautifulsoup4==4.10.0
+- pandas==1.1.5
+- requests==2.27.1
 
 ## How to Run
 1. Clone this repo. <br>
