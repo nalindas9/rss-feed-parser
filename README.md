@@ -1,9 +1,10 @@
 # rss-feed-parser
 
-[![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nalindas9/object-detection/blob/master/LICENSE)
+[![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nalindas9/rss-feed-parser/blob/master/LICENSE)
 
 ## About
-RSS Feed Parser that calls a URL every 1 hour and scrapes the data and saves it to a CSV file
+RSS Feed Parser that calls a URL every 1 hour and scrapes the news data and saves it to a CSV file. Currently scrapes this [url](https://www.yahoo.com/news/rss/),
+[webpage](https://www.yahoo.com/news/).
 
 ## Output
 
