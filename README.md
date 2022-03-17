@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/44141068/157387720-42a434ff-b4eb-4ed6-
 
 ## System and library requirements
 
+- Ubuntu==18.04.5 LTS
 - Python==3.6.9
 - beautifulsoup4==4.10.0
 - pandas==1.1.5
